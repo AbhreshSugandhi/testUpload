@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Any Name" , verbose="1 - 10">;
+
+<test name="Any Name">;
+
+<classes>;
+
+<class name="PackageName.TestCaseName"/>;
+
+</classes>;
+
+</test>;
+
+</suite>;

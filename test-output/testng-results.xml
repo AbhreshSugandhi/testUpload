@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54368" started-at="2018-04-15T15:56:24Z" finished-at="2018-04-15T15:57:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54368" started-at="2018-04-15T15:56:24Z" finished-at="2018-04-15T15:57:18Z">
+      <class name="module9.DDT.DataDrivenTest">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="OpenBrowser" is-config="true" duration-ms="9350" started-at="2018-04-15T15:56:24Z" finished-at="2018-04-15T15:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4745" started-at="2018-04-15T15:56:33Z" data-provider="TestData" finished-at="2018-04-15T15:56:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gujrat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4372" started-at="2018-04-15T15:56:38Z" data-provider="TestData" finished-at="2018-04-15T15:56:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Joseph]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4390" started-at="2018-04-15T15:56:42Z" data-provider="TestData" finished-at="2018-04-15T15:56:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sumit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pandey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4372" started-at="2018-04-15T15:56:47Z" data-provider="TestData" finished-at="2018-04-15T15:56:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Desuza]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4366" started-at="2018-04-15T15:56:51Z" data-provider="TestData" finished-at="2018-04-15T15:56:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rohit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Joshi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4392" started-at="2018-04-15T15:56:56Z" data-provider="TestData" finished-at="2018-04-15T15:57:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jain]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gujrat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4360" started-at="2018-04-15T15:57:00Z" data-provider="TestData" finished-at="2018-04-15T15:57:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Joseph]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Goa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4387" started-at="2018-04-15T15:57:04Z" data-provider="TestData" finished-at="2018-04-15T15:57:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pandey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sumit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4396" started-at="2018-04-15T15:57:09Z" data-provider="TestData" finished-at="2018-04-15T15:57:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desuza]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="TestChrome(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="TestChrome" duration-ms="4471" started-at="2018-04-15T15:57:13Z" data-provider="TestData" finished-at="2018-04-15T15:57:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Joshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rohit]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChrome -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:module9.DDT.DataDrivenTest@44c8afef]" name="CloseBrowser" is-config="true" duration-ms="433" started-at="2018-04-15T15:57:18Z" finished-at="2018-04-15T15:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- module9.DDT.DataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
